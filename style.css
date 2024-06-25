@@ -1,0 +1,50 @@
+h1{
+    font-size: 36px;
+    margin: 0px;
+}
+h2{
+    font-size: 26px;
+}
+p{
+    margin: 0px;
+}
+a{
+    color: blue;
+    font-size: 20px;
+    text-decoration: underline;
+    display: block;
+}
+a:hover{
+    font-style: italic;
+    cursor: pointer;
+}
+audio{
+    border-radius: 0px;
+    margin-top: 6px;
+}
+
+.titlebox{
+    border-width: 5px;
+    border-color: black;
+    border-style: dashed;
+    padding: 12px;
+    margin-bottom: 12px;
+    width: fit-content;
+}
+.box{
+    border-width: 2px;
+    border-color: black;
+    border-style: dashed;
+    padding: 12px;
+    margin-bottom: 12px;
+    width: fit-content;
+}
+.blogbox{
+    border-width: 2px;
+    border-color: black;
+    border-style: dashed;
+    padding: 12px;
+    margin-bottom: 12px;
+    width: 300px;
+    max-width: 90%;
+}
