@@ -1,0 +1,19 @@
+<rss version="2.0">
+    <channel>
+        <title>Hypermarket Industry Records</title>
+        <link>https://hypermarket-industry-records.github.io/</link>
+        <description>RSS for HmIR</description>
+        <language>en-uk</language>
+
+        <ttl>60</ttl>
+
+        <item>
+            <title>Radio Free Memphis Interview</title>
+            <link>https://hypermarket-industry-records.github.io/</link>
+            <guid isPermaLink="false">hmir:21.03.2026</guid>
+            <pubDate>Sat, 3rd March 2026 01:56:00 +0000</pubDate>
+            <description
+            ><![CDATA[<p>Couple weeks ago I got to talk about CCFFoAOSoMoL with Radio Free Memphis, you can shove it into your ears at <a href="https://radiofreememphis.bandcamp.com/track/bootleg-recording-16-w-jack-of-hypermarket-industry-records">https://radiofreememphis.bandcamp.com/track/bootleg-recording-16-w-jack-of-hypermarket-industry-records</a>. The interview starts at 47 minutes but the rest of it's worth the listen too.</p>]]></description>
+        </item>
+    </channel>
+</rss>
